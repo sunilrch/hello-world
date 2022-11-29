@@ -1,0 +1,7 @@
+
+rsync -r Original/ Backup/
+
+
+https://www.google.com/search?q=rsync+command+in+linux&source=lnms&tbm=vid&sa=X&ved=2ahUKEwich7amuMn7AhUuUGwGHVf6DOkQ_AUoAXoECAIQAw&biw=1195&bih=626&dpr=1.88
+
+https://www.google.com/search?q=rsync+command+in+linux&source=lnms&tbm=vid&sa=X&ved=2ahUKEwich7amuMn7AhUuUGwGHVf6DOkQ_AUoAXoECAIQAw&biw=1195&bih=626&dpr=1.88#fpstate=ive&vld=cid:48571445,vid:qE77MbDnljA 
