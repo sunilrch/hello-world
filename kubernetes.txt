@@ -1,0 +1,6 @@
+https://platform9.com/blog/kubernetes-service-discovery-principles-in-practice/
+
+https://medium.com/avmconsulting-blog/service-discovery-for-microservices-with-kubernetes-bf4353953553
+
+
+https://thenewstack.io/how-does-service-discovery-work-in-kubernetes/
